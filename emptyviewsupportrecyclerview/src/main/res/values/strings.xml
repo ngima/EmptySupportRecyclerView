@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Empty View Support Recycler View</string>
+    <string name="whoops">Whoops!!</string>
+    <string name="there_is_nothing">There is nothing you are looking for.</string>
+</resources>
