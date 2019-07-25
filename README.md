@@ -13,6 +13,9 @@ RecyclerView that supports emptyview in it. Here is an example to use it:
             `app:layout_constraintTop_toTopOf="parent"/>`
 
 
+## Screen shot
+
+![Screen shot empty view in recyclerview](https://github.com/ngima/EmptySupportRecyclerView/raw/master/img/Screenshot_1564065030.png)
 
 ## How to use
 =======================
