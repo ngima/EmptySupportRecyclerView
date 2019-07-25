@@ -16,4 +16,5 @@ RecyclerView that supports emptyview in it. Here is an example to use it:
 
 ## How to use
 =======================
+
 `implementation 'np.com.ngimasherpa:emptyviewsupportrecyclerview:$latest_version'`
